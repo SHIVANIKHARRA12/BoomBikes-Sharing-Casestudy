@@ -18,10 +18,10 @@ Dataset used day.csv file
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- As per our final Model, the top 3 predictor variables that influences the bike booking are:
-•	Temperature (temp) - A coefficient value of ‘0.5209’ indicated that a unit increase in temp variable increases the bike hire numbers by 0.5209 units.
-•	Weather Situation 3 (weathersit_3) - A coefficient value of ‘-0.2869’ indicated that, w.r.t Weathersit1, a unit increase in Weathersit3 variable decreases the bike hire numbers by 0.3070 units.
-•	Year (yr) - A coefficient value of ‘0.2328’ indicated that a unit increase in yr variable increases the bike hire numbers by 0.2328 units.
+As per our final Model, the top 3 predictor variables that influences the bike booking are:
+ - Temperature (temp) - A coefficient value of ‘0.5209’ indicated that a unit increase in temp variable increases the bike hire numbers by 0.5209 units.
+ - Weather Situation 3 (weathersit_3) - A coefficient value of ‘-0.2869’ indicated that, w.r.t Weathersit1, a unit increase in Weathersit3 variable decreases the bike hire numbers by 0.3070 units.
+ - Year (yr) - A coefficient value of ‘0.2328’ indicated that a unit increase in yr variable increases the bike hire numbers by 0.2328 units.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
