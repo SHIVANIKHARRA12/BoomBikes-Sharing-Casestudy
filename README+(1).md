@@ -27,7 +27,7 @@ As per our final Model, the top 3 predictor variables that influences the bike b
 
 
 ## Technologies Used
-- library - Nampy, Pandas, Seaborn, Statsmodels, Sikit-learn
+- Python libraries - Nampy, Pandas, Seaborn, Statsmodels, Sikit-learn
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
